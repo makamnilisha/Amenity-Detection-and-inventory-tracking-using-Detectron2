@@ -4,7 +4,7 @@ import dbconnect
 import folium
 from streamlit_folium import st_folium, folium_static
 
-
+### test commit to github
 def listing(list_address):
     st.sidebar.header('Listing information')
     ticker = st.sidebar.selectbox(
@@ -17,6 +17,7 @@ def listing(list_address):
 def main():
     username = st.sidebar.text_input('username')
     username = 'bobby'
+    username1='tommy'
     mydb = dbconnect.connect_db()
     cursor1 = mydb.cursor()
     cursor2=mydb.cursor()
