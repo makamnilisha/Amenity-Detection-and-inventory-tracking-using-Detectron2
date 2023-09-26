@@ -17,7 +17,7 @@ def listing(list_address):
 def main():
     username = st.sidebar.text_input('username')
     username = 'bobby'
-    username1='tommy'
+    #username1='tommy'
     mydb = dbconnect.connect_db()
     cursor1 = mydb.cursor()
     cursor2=mydb.cursor()
