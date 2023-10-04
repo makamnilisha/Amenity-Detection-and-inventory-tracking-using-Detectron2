@@ -3,6 +3,7 @@ import login
 import home_host
 
 def main():
+    #test comment
     st.title("Welcome to SJSU Rentals")
     # first run will have nothing in session_state
     if 'loggedIn' not in st.session_state:
