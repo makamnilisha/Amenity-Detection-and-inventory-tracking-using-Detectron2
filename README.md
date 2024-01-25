@@ -1,4 +1,5 @@
 # Amenity-Detection-using-Detectron2
+# Authors: Nilisha Makam Prashantha Joshnadevi Vadapalli Sangamithra Murugesan Faiza Ayoun
 Purpose:
 Short-term rentals facilitated by platforms like Airbnb have gained immense popularity, providing property owners with a lucrative venture. However, concerns about property conditions after check-out persist. This research addresses this challenge by developing **deep learning and computer vision** tools for amenity detection and inventory tracking. Specifically, the goal is to assist hosts in managing property details efficiently, improving transparency, and enhancing the overall rental experience.
 
